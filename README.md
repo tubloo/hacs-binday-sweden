@@ -4,6 +4,16 @@ A Sweden-only Home Assistant custom integration that exposes your next waste/bin
 
 Waste collection is organized at the municipality (kommun) level and bin/fraction naming varies widely. This integration models collection types dynamically based on provider data (no fixed “bin_1/bin_2” assumptions).
 
+## Disclaimer
+
+- This is an unofficial, community project and is not affiliated with Home Assistant, municipalities, or any waste provider (e.g. NSR AB).
+- Provider endpoints and data formats may change without notice. Schedules may be incomplete, delayed, or incorrect; always rely on official provider information for critical decisions.
+- Address searches and selected match IDs are sent to the provider you choose in order to fetch your schedule.
+
+## Built with Codex
+
+This integration was developed with help from Codex CLI (OpenAI).
+
 ## Supported providers / municipalities
 
 ### NSR AB (NSR)
@@ -116,3 +126,7 @@ action:
 
 - No HTML scraping; providers should use documented/undocumented JSON endpoints where available.
 - Add more provider implementations and expand the kommun → provider mapping in `custom_components/binday_sweden/providers/routing.py`.
+
+## License
+
+MIT. See `LICENSE`.
