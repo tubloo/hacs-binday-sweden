@@ -30,7 +30,7 @@ class _NsrExec:
 
 class NsrProvider:
     provider_id = "nsr"
-    provider_name = "NSR"
+    provider_name = "NSR AB"
 
     def __init__(self, hass: HomeAssistant, *, use_demo_data: bool = False) -> None:
         self._hass = hass

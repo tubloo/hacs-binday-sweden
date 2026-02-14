@@ -1,10 +1,10 @@
 {
   "domain": "binday_sweden",
   "name": "BinDay Sweden",
-  "codeowners": ["@sumitghosh"],
+  "codeowners": ["@tubloo", "@sumitghosh"],
   "config_flow": true,
-  "documentation": "https://github.com/sumitghosh/hacs-binday-sweden",
-  "issue_tracker": "https://github.com/sumitghosh/hacs-binday-sweden/issues",
+  "documentation": "https://github.com/tubloo/hacs-binday-sweden",
+  "issue_tracker": "https://github.com/tubloo/hacs-binday-sweden/issues",
   "integration_type": "service",
   "iot_class": "cloud_polling",
   "requirements": [],
