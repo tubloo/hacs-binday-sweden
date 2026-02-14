@@ -1,0 +1,19 @@
+{
+  "q": "DEMO",
+  "fp": [
+    {
+      "id": "demo-property-123",
+      "Adress": "Exempelgatan 1",
+      "Ort": "Helsingborg",
+      "Exec": {
+        "Datum": ["2026-02-15", "2026-03-01", "2026-03-15"],
+        "DatumFormaterat": ["sön 15 feb.", "sön 1 mars", "sön 15 mars"],
+        "DatumKontroll": ["/Date(1771119600000+0100)/", "/Date(1772502000000+0100)/", "/Date(1773711600000+0100)/"],
+        "DatumWeek": ["Udda veckor", "Udda veckor", "Udda veckor"],
+        "AvfallsTyp": ["KÄRL 1", "KÄRL 2", "KÄRL 1"],
+        "AvfallsTypFormaterat": ["Mat+Rest", "Förpackningar", "Mat+Rest"],
+        "Andrad": [0, 0, 0]
+      }
+    }
+  ]
+}

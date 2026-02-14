@@ -1,0 +1,57 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "BinDay Sweden",
+        "description": "Välj län och kommun för att hitta rätt avfallsleverantör.",
+        "data": {
+          "lan": "Län"
+        }
+      },
+      "kommun": {
+        "title": "Kommun",
+        "description": "Välj din kommun.",
+        "data": {
+          "kommun": "Kommun"
+        }
+      },
+      "address": {
+        "title": "Adressökning",
+        "description": "Sök efter din adress/fastighet via leverantörens sök.",
+        "data": {
+          "address_query": "Adressökning",
+          "scan_interval_hours": "Uppdateringsintervall (timmar)"
+        }
+      },
+      "select": {
+        "title": "Välj adress",
+        "description": "Flera träffar hittades. Välj rätt adress/fastighet.",
+        "data": {
+          "match_id": "Adress"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Kunde inte ansluta till leverantören.",
+      "cannot_load_data": "Kunde inte läsa in kommun-/län-data.",
+      "no_matches": "Inga matchande adresser hittades.",
+      "match_not_found": "Vald träff kunde inte hittas.",
+      "invalid_lan": "Ogiltigt länval.",
+      "invalid_kommun": "Ogiltigt kommunval.",
+      "unsupported_municipality": "Din kommun stöds inte ännu."
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "data": {
+          "scan_interval_hours": "Uppdateringsintervall (timmar)",
+          "upcoming_limit": "Antal kommande händelser",
+          "create_per_type_sensors": "Skapa sensorer per typ",
+          "per_type_sensor_cap": "Max antal typsensorer",
+          "use_demo_data": "Använd demodata (utvecklare)"
+        }
+      }
+    }
+  }
+}

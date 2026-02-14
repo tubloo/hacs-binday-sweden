@@ -1,0 +1,1204 @@
+{
+  "Blekinge län": [
+    {
+      "id": "Karlshamns",
+      "label": "Karlshamns"
+    },
+    {
+      "id": "Karlskrona",
+      "label": "Karlskrona"
+    },
+    {
+      "id": "Olofströms",
+      "label": "Olofströms"
+    },
+    {
+      "id": "Ronneby",
+      "label": "Ronneby"
+    },
+    {
+      "id": "Sölvesborgs",
+      "label": "Sölvesborgs"
+    }
+  ],
+  "Dalarnas län": [
+    {
+      "id": "Avesta",
+      "label": "Avesta"
+    },
+    {
+      "id": "Borlänge",
+      "label": "Borlänge"
+    },
+    {
+      "id": "Falu",
+      "label": "Falu"
+    },
+    {
+      "id": "Gagnefs",
+      "label": "Gagnefs"
+    },
+    {
+      "id": "Hedemora",
+      "label": "Hedemora"
+    },
+    {
+      "id": "Leksands",
+      "label": "Leksands"
+    },
+    {
+      "id": "Ludvika",
+      "label": "Ludvika"
+    },
+    {
+      "id": "Malung-Sälens",
+      "label": "Malung-Sälens"
+    },
+    {
+      "id": "Mora",
+      "label": "Mora"
+    },
+    {
+      "id": "Orsa",
+      "label": "Orsa"
+    },
+    {
+      "id": "Rättviks",
+      "label": "Rättviks"
+    },
+    {
+      "id": "Smedjebackens",
+      "label": "Smedjebackens"
+    },
+    {
+      "id": "Säters",
+      "label": "Säters"
+    },
+    {
+      "id": "Vansbro",
+      "label": "Vansbro"
+    },
+    {
+      "id": "Älvdalens",
+      "label": "Älvdalens"
+    }
+  ],
+  "Gotlands län": [
+    {
+      "id": "Region Gotland",
+      "label": "Region Gotland"
+    }
+  ],
+  "Gävleborgs län": [
+    {
+      "id": "Bollnäs",
+      "label": "Bollnäs"
+    },
+    {
+      "id": "Gävle",
+      "label": "Gävle"
+    },
+    {
+      "id": "Hofors",
+      "label": "Hofors"
+    },
+    {
+      "id": "Hudiksvalls",
+      "label": "Hudiksvalls"
+    },
+    {
+      "id": "Ljusdals",
+      "label": "Ljusdals"
+    },
+    {
+      "id": "Nordanstigs",
+      "label": "Nordanstigs"
+    },
+    {
+      "id": "Ockelbo",
+      "label": "Ockelbo"
+    },
+    {
+      "id": "Ovanåkers",
+      "label": "Ovanåkers"
+    },
+    {
+      "id": "Sandvikens",
+      "label": "Sandvikens"
+    },
+    {
+      "id": "Söderhamns",
+      "label": "Söderhamns"
+    }
+  ],
+  "Hallands län": [
+    {
+      "id": "Falkenbergs",
+      "label": "Falkenbergs"
+    },
+    {
+      "id": "Halmstads",
+      "label": "Halmstads"
+    },
+    {
+      "id": "Hylte",
+      "label": "Hylte"
+    },
+    {
+      "id": "Kungsbacka",
+      "label": "Kungsbacka"
+    },
+    {
+      "id": "Laholms",
+      "label": "Laholms"
+    },
+    {
+      "id": "Varbergs",
+      "label": "Varbergs"
+    }
+  ],
+  "Jämtlands län": [
+    {
+      "id": "Bergs",
+      "label": "Bergs"
+    },
+    {
+      "id": "Bräcke",
+      "label": "Bräcke"
+    },
+    {
+      "id": "Härjedalens",
+      "label": "Härjedalens"
+    },
+    {
+      "id": "Krokoms",
+      "label": "Krokoms"
+    },
+    {
+      "id": "Ragunda",
+      "label": "Ragunda"
+    },
+    {
+      "id": "Strömsunds",
+      "label": "Strömsunds"
+    },
+    {
+      "id": "Åre",
+      "label": "Åre"
+    },
+    {
+      "id": "Östersunds",
+      "label": "Östersunds"
+    }
+  ],
+  "Jönköpings län": [
+    {
+      "id": "Aneby",
+      "label": "Aneby"
+    },
+    {
+      "id": "Eksjö",
+      "label": "Eksjö"
+    },
+    {
+      "id": "Gislaveds",
+      "label": "Gislaveds"
+    },
+    {
+      "id": "Gnosjö",
+      "label": "Gnosjö"
+    },
+    {
+      "id": "Habo",
+      "label": "Habo"
+    },
+    {
+      "id": "Jönköpings",
+      "label": "Jönköpings"
+    },
+    {
+      "id": "Mullsjö",
+      "label": "Mullsjö"
+    },
+    {
+      "id": "Nässjö",
+      "label": "Nässjö"
+    },
+    {
+      "id": "Sävsjö",
+      "label": "Sävsjö"
+    },
+    {
+      "id": "Tranås",
+      "label": "Tranås"
+    },
+    {
+      "id": "Vaggeryds",
+      "label": "Vaggeryds"
+    },
+    {
+      "id": "Vetlanda",
+      "label": "Vetlanda"
+    },
+    {
+      "id": "Värnamo",
+      "label": "Värnamo"
+    }
+  ],
+  "Kalmar län": [
+    {
+      "id": "Borgholms",
+      "label": "Borgholms"
+    },
+    {
+      "id": "Emmaboda",
+      "label": "Emmaboda"
+    },
+    {
+      "id": "Hultsfreds",
+      "label": "Hultsfreds"
+    },
+    {
+      "id": "Högsby",
+      "label": "Högsby"
+    },
+    {
+      "id": "Kalmar",
+      "label": "Kalmar"
+    },
+    {
+      "id": "Mönsterås",
+      "label": "Mönsterås"
+    },
+    {
+      "id": "Mörbylånga",
+      "label": "Mörbylånga"
+    },
+    {
+      "id": "Nybro",
+      "label": "Nybro"
+    },
+    {
+      "id": "Oskarshamns",
+      "label": "Oskarshamns"
+    },
+    {
+      "id": "Torsås",
+      "label": "Torsås"
+    },
+    {
+      "id": "Vimmerby",
+      "label": "Vimmerby"
+    },
+    {
+      "id": "Västerviks",
+      "label": "Västerviks"
+    }
+  ],
+  "Kronobergs län": [
+    {
+      "id": "Alvesta",
+      "label": "Alvesta"
+    },
+    {
+      "id": "Lessebo",
+      "label": "Lessebo"
+    },
+    {
+      "id": "Ljungby",
+      "label": "Ljungby"
+    },
+    {
+      "id": "Markaryds",
+      "label": "Markaryds"
+    },
+    {
+      "id": "Tingsryds",
+      "label": "Tingsryds"
+    },
+    {
+      "id": "Uppvidinge",
+      "label": "Uppvidinge"
+    },
+    {
+      "id": "Växjö",
+      "label": "Växjö"
+    },
+    {
+      "id": "Älmhults",
+      "label": "Älmhults"
+    }
+  ],
+  "Norrbottens län": [
+    {
+      "id": "Arjeplogs",
+      "label": "Arjeplogs"
+    },
+    {
+      "id": "Arvidsjaurs",
+      "label": "Arvidsjaurs"
+    },
+    {
+      "id": "Bodens",
+      "label": "Bodens"
+    },
+    {
+      "id": "Gällivare",
+      "label": "Gällivare"
+    },
+    {
+      "id": "Haparanda",
+      "label": "Haparanda"
+    },
+    {
+      "id": "Jokkmokks",
+      "label": "Jokkmokks"
+    },
+    {
+      "id": "Kalix",
+      "label": "Kalix"
+    },
+    {
+      "id": "Kiruna",
+      "label": "Kiruna"
+    },
+    {
+      "id": "Luleå",
+      "label": "Luleå"
+    },
+    {
+      "id": "Pajala",
+      "label": "Pajala"
+    },
+    {
+      "id": "Piteå",
+      "label": "Piteå"
+    },
+    {
+      "id": "Älvsbyns",
+      "label": "Älvsbyns"
+    },
+    {
+      "id": "Överkalix",
+      "label": "Överkalix"
+    },
+    {
+      "id": "Övertorneå",
+      "label": "Övertorneå"
+    }
+  ],
+  "Skåne län": [
+    {
+      "id": "Bjuvs",
+      "label": "Bjuvs"
+    },
+    {
+      "id": "Bromölla",
+      "label": "Bromölla"
+    },
+    {
+      "id": "Burlövs",
+      "label": "Burlövs"
+    },
+    {
+      "id": "Båstads",
+      "label": "Båstads"
+    },
+    {
+      "id": "Eslövs",
+      "label": "Eslövs"
+    },
+    {
+      "id": "Helsingborgs",
+      "label": "Helsingborgs"
+    },
+    {
+      "id": "Hässleholms",
+      "label": "Hässleholms"
+    },
+    {
+      "id": "Höganäs",
+      "label": "Höganäs"
+    },
+    {
+      "id": "Hörby",
+      "label": "Hörby"
+    },
+    {
+      "id": "Höörs",
+      "label": "Höörs"
+    },
+    {
+      "id": "Klippans",
+      "label": "Klippans"
+    },
+    {
+      "id": "Kristianstads",
+      "label": "Kristianstads"
+    },
+    {
+      "id": "Kävlinge",
+      "label": "Kävlinge"
+    },
+    {
+      "id": "Landskrona",
+      "label": "Landskrona"
+    },
+    {
+      "id": "Lomma",
+      "label": "Lomma"
+    },
+    {
+      "id": "Lunds",
+      "label": "Lunds"
+    },
+    {
+      "id": "Malmö",
+      "label": "Malmö"
+    },
+    {
+      "id": "Osby",
+      "label": "Osby"
+    },
+    {
+      "id": "Perstorps",
+      "label": "Perstorps"
+    },
+    {
+      "id": "Simrishamns",
+      "label": "Simrishamns"
+    },
+    {
+      "id": "Sjöbo",
+      "label": "Sjöbo"
+    },
+    {
+      "id": "Skurups",
+      "label": "Skurups"
+    },
+    {
+      "id": "Staffanstorps",
+      "label": "Staffanstorps"
+    },
+    {
+      "id": "Svalövs",
+      "label": "Svalövs"
+    },
+    {
+      "id": "Svedala",
+      "label": "Svedala"
+    },
+    {
+      "id": "Tomelilla",
+      "label": "Tomelilla"
+    },
+    {
+      "id": "Trelleborgs",
+      "label": "Trelleborgs"
+    },
+    {
+      "id": "Vellinge",
+      "label": "Vellinge"
+    },
+    {
+      "id": "Ystads",
+      "label": "Ystads"
+    },
+    {
+      "id": "Ängelholms",
+      "label": "Ängelholms"
+    },
+    {
+      "id": "Åstorps",
+      "label": "Åstorps"
+    },
+    {
+      "id": "Örkelljunga",
+      "label": "Örkelljunga"
+    },
+    {
+      "id": "Östra Göinge",
+      "label": "Östra Göinge"
+    }
+  ],
+  "Stockholms län": [
+    {
+      "id": "Botkyrka",
+      "label": "Botkyrka"
+    },
+    {
+      "id": "Danderyds",
+      "label": "Danderyds"
+    },
+    {
+      "id": "Ekerö",
+      "label": "Ekerö"
+    },
+    {
+      "id": "Haninge",
+      "label": "Haninge"
+    },
+    {
+      "id": "Huddinge",
+      "label": "Huddinge"
+    },
+    {
+      "id": "Järfälla",
+      "label": "Järfälla"
+    },
+    {
+      "id": "Lidingö",
+      "label": "Lidingö"
+    },
+    {
+      "id": "Nacka",
+      "label": "Nacka"
+    },
+    {
+      "id": "Norrtälje",
+      "label": "Norrtälje"
+    },
+    {
+      "id": "Nykvarns",
+      "label": "Nykvarns"
+    },
+    {
+      "id": "Nynäshamns",
+      "label": "Nynäshamns"
+    },
+    {
+      "id": "Salems",
+      "label": "Salems"
+    },
+    {
+      "id": "Sigtuna",
+      "label": "Sigtuna"
+    },
+    {
+      "id": "Sollentuna",
+      "label": "Sollentuna"
+    },
+    {
+      "id": "Solna",
+      "label": "Solna"
+    },
+    {
+      "id": "Stockholms",
+      "label": "Stockholms"
+    },
+    {
+      "id": "Sundbybergs",
+      "label": "Sundbybergs"
+    },
+    {
+      "id": "Södertälje",
+      "label": "Södertälje"
+    },
+    {
+      "id": "Tyresö",
+      "label": "Tyresö"
+    },
+    {
+      "id": "Täby",
+      "label": "Täby"
+    },
+    {
+      "id": "Upplands Väsby",
+      "label": "Upplands Väsby"
+    },
+    {
+      "id": "Upplands-Bro",
+      "label": "Upplands-Bro"
+    },
+    {
+      "id": "Vallentuna",
+      "label": "Vallentuna"
+    },
+    {
+      "id": "Vaxholms",
+      "label": "Vaxholms"
+    },
+    {
+      "id": "Värmdö",
+      "label": "Värmdö"
+    },
+    {
+      "id": "Österåkers",
+      "label": "Österåkers"
+    }
+  ],
+  "Södermanlands län": [
+    {
+      "id": "Eskilstuna",
+      "label": "Eskilstuna"
+    },
+    {
+      "id": "Flens",
+      "label": "Flens"
+    },
+    {
+      "id": "Gnesta",
+      "label": "Gnesta"
+    },
+    {
+      "id": "Katrineholms",
+      "label": "Katrineholms"
+    },
+    {
+      "id": "Nyköpings",
+      "label": "Nyköpings"
+    },
+    {
+      "id": "Oxelösunds",
+      "label": "Oxelösunds"
+    },
+    {
+      "id": "Strängnäs",
+      "label": "Strängnäs"
+    },
+    {
+      "id": "Trosa",
+      "label": "Trosa"
+    },
+    {
+      "id": "Vingåkers",
+      "label": "Vingåkers"
+    }
+  ],
+  "Uppsala län": [
+    {
+      "id": "Enköpings",
+      "label": "Enköpings"
+    },
+    {
+      "id": "Heby",
+      "label": "Heby"
+    },
+    {
+      "id": "Håbo",
+      "label": "Håbo"
+    },
+    {
+      "id": "Knivsta",
+      "label": "Knivsta"
+    },
+    {
+      "id": "Tierps",
+      "label": "Tierps"
+    },
+    {
+      "id": "Uppsala",
+      "label": "Uppsala"
+    },
+    {
+      "id": "Älvkarleby",
+      "label": "Älvkarleby"
+    },
+    {
+      "id": "Östhammars",
+      "label": "Östhammars"
+    }
+  ],
+  "Värmlands län": [
+    {
+      "id": "Arvika",
+      "label": "Arvika"
+    },
+    {
+      "id": "Eda",
+      "label": "Eda"
+    },
+    {
+      "id": "Filipstads",
+      "label": "Filipstads"
+    },
+    {
+      "id": "Forshaga",
+      "label": "Forshaga"
+    },
+    {
+      "id": "Grums",
+      "label": "Grums"
+    },
+    {
+      "id": "Hagfors",
+      "label": "Hagfors"
+    },
+    {
+      "id": "Hammarö",
+      "label": "Hammarö"
+    },
+    {
+      "id": "Karlstads",
+      "label": "Karlstads"
+    },
+    {
+      "id": "Kils",
+      "label": "Kils"
+    },
+    {
+      "id": "Kristinehamns",
+      "label": "Kristinehamns"
+    },
+    {
+      "id": "Munkfors",
+      "label": "Munkfors"
+    },
+    {
+      "id": "Storfors",
+      "label": "Storfors"
+    },
+    {
+      "id": "Sunne",
+      "label": "Sunne"
+    },
+    {
+      "id": "Säffle",
+      "label": "Säffle"
+    },
+    {
+      "id": "Torsby",
+      "label": "Torsby"
+    },
+    {
+      "id": "Årjängs",
+      "label": "Årjängs"
+    }
+  ],
+  "Västerbottens län": [
+    {
+      "id": "Bjurholms",
+      "label": "Bjurholms"
+    },
+    {
+      "id": "Dorotea",
+      "label": "Dorotea"
+    },
+    {
+      "id": "Lycksele",
+      "label": "Lycksele"
+    },
+    {
+      "id": "Malå",
+      "label": "Malå"
+    },
+    {
+      "id": "Nordmalings",
+      "label": "Nordmalings"
+    },
+    {
+      "id": "Norsjö",
+      "label": "Norsjö"
+    },
+    {
+      "id": "Robertsfors",
+      "label": "Robertsfors"
+    },
+    {
+      "id": "Skellefteå",
+      "label": "Skellefteå"
+    },
+    {
+      "id": "Sorsele",
+      "label": "Sorsele"
+    },
+    {
+      "id": "Storumans",
+      "label": "Storumans"
+    },
+    {
+      "id": "Umeå",
+      "label": "Umeå"
+    },
+    {
+      "id": "Vilhelmina",
+      "label": "Vilhelmina"
+    },
+    {
+      "id": "Vindelns",
+      "label": "Vindelns"
+    },
+    {
+      "id": "Vännäs",
+      "label": "Vännäs"
+    },
+    {
+      "id": "Åsele",
+      "label": "Åsele"
+    }
+  ],
+  "Västernorrlands län": [
+    {
+      "id": "Härnösands",
+      "label": "Härnösands"
+    },
+    {
+      "id": "Kramfors",
+      "label": "Kramfors"
+    },
+    {
+      "id": "Sollefteå",
+      "label": "Sollefteå"
+    },
+    {
+      "id": "Sundsvalls",
+      "label": "Sundsvalls"
+    },
+    {
+      "id": "Timrå",
+      "label": "Timrå"
+    },
+    {
+      "id": "Ånge",
+      "label": "Ånge"
+    },
+    {
+      "id": "Örnsköldsviks",
+      "label": "Örnsköldsviks"
+    }
+  ],
+  "Västmanlands län": [
+    {
+      "id": "Arboga",
+      "label": "Arboga"
+    },
+    {
+      "id": "Fagersta",
+      "label": "Fagersta"
+    },
+    {
+      "id": "Hallstahammars",
+      "label": "Hallstahammars"
+    },
+    {
+      "id": "Kungsörs",
+      "label": "Kungsörs"
+    },
+    {
+      "id": "Köpings",
+      "label": "Köpings"
+    },
+    {
+      "id": "Norbergs",
+      "label": "Norbergs"
+    },
+    {
+      "id": "Sala",
+      "label": "Sala"
+    },
+    {
+      "id": "Skinnskattebergs",
+      "label": "Skinnskattebergs"
+    },
+    {
+      "id": "Surahammars",
+      "label": "Surahammars"
+    },
+    {
+      "id": "Västerås",
+      "label": "Västerås"
+    }
+  ],
+  "Västra Götalands län": [
+    {
+      "id": "Ale",
+      "label": "Ale"
+    },
+    {
+      "id": "Alingsås",
+      "label": "Alingsås"
+    },
+    {
+      "id": "Bengtsfors",
+      "label": "Bengtsfors"
+    },
+    {
+      "id": "Bollebygds",
+      "label": "Bollebygds"
+    },
+    {
+      "id": "Borås",
+      "label": "Borås"
+    },
+    {
+      "id": "Dals-Eds",
+      "label": "Dals-Eds"
+    },
+    {
+      "id": "Essunga",
+      "label": "Essunga"
+    },
+    {
+      "id": "Falköpings",
+      "label": "Falköpings"
+    },
+    {
+      "id": "Färgelanda",
+      "label": "Färgelanda"
+    },
+    {
+      "id": "Grästorps",
+      "label": "Grästorps"
+    },
+    {
+      "id": "Gullspångs",
+      "label": "Gullspångs"
+    },
+    {
+      "id": "Göteborgs",
+      "label": "Göteborgs"
+    },
+    {
+      "id": "Götene",
+      "label": "Götene"
+    },
+    {
+      "id": "Herrljunga",
+      "label": "Herrljunga"
+    },
+    {
+      "id": "Hjo",
+      "label": "Hjo"
+    },
+    {
+      "id": "Härryda",
+      "label": "Härryda"
+    },
+    {
+      "id": "Karlsborgs",
+      "label": "Karlsborgs"
+    },
+    {
+      "id": "Kungälvs",
+      "label": "Kungälvs"
+    },
+    {
+      "id": "Lerums",
+      "label": "Lerums"
+    },
+    {
+      "id": "Lidköpings",
+      "label": "Lidköpings"
+    },
+    {
+      "id": "Lilla Edets",
+      "label": "Lilla Edets"
+    },
+    {
+      "id": "Lysekils",
+      "label": "Lysekils"
+    },
+    {
+      "id": "Mariestads",
+      "label": "Mariestads"
+    },
+    {
+      "id": "Marks",
+      "label": "Marks"
+    },
+    {
+      "id": "Melleruds",
+      "label": "Melleruds"
+    },
+    {
+      "id": "Munkedals",
+      "label": "Munkedals"
+    },
+    {
+      "id": "Mölndals",
+      "label": "Mölndals"
+    },
+    {
+      "id": "Orusts",
+      "label": "Orusts"
+    },
+    {
+      "id": "Partille",
+      "label": "Partille"
+    },
+    {
+      "id": "Skara",
+      "label": "Skara"
+    },
+    {
+      "id": "Skövde",
+      "label": "Skövde"
+    },
+    {
+      "id": "Sotenäs",
+      "label": "Sotenäs"
+    },
+    {
+      "id": "Stenungsunds",
+      "label": "Stenungsunds"
+    },
+    {
+      "id": "Strömstads",
+      "label": "Strömstads"
+    },
+    {
+      "id": "Svenljunga",
+      "label": "Svenljunga"
+    },
+    {
+      "id": "Tanums",
+      "label": "Tanums"
+    },
+    {
+      "id": "Tibro",
+      "label": "Tibro"
+    },
+    {
+      "id": "Tidaholms",
+      "label": "Tidaholms"
+    },
+    {
+      "id": "Tjörns",
+      "label": "Tjörns"
+    },
+    {
+      "id": "Tranemo",
+      "label": "Tranemo"
+    },
+    {
+      "id": "Trollhättans",
+      "label": "Trollhättans"
+    },
+    {
+      "id": "Töreboda",
+      "label": "Töreboda"
+    },
+    {
+      "id": "Uddevalla",
+      "label": "Uddevalla"
+    },
+    {
+      "id": "Ulricehamns",
+      "label": "Ulricehamns"
+    },
+    {
+      "id": "Vara",
+      "label": "Vara"
+    },
+    {
+      "id": "Vänersborgs",
+      "label": "Vänersborgs"
+    },
+    {
+      "id": "Vårgårda",
+      "label": "Vårgårda"
+    },
+    {
+      "id": "Åmåls",
+      "label": "Åmåls"
+    },
+    {
+      "id": "Öckerö",
+      "label": "Öckerö"
+    }
+  ],
+  "Örebro län": [
+    {
+      "id": "Askersunds",
+      "label": "Askersunds"
+    },
+    {
+      "id": "Degerfors",
+      "label": "Degerfors"
+    },
+    {
+      "id": "Hallsbergs",
+      "label": "Hallsbergs"
+    },
+    {
+      "id": "Hällefors",
+      "label": "Hällefors"
+    },
+    {
+      "id": "Karlskoga",
+      "label": "Karlskoga"
+    },
+    {
+      "id": "Kumla",
+      "label": "Kumla"
+    },
+    {
+      "id": "Laxå",
+      "label": "Laxå"
+    },
+    {
+      "id": "Lekebergs",
+      "label": "Lekebergs"
+    },
+    {
+      "id": "Lindesbergs",
+      "label": "Lindesbergs"
+    },
+    {
+      "id": "Ljusnarsbergs",
+      "label": "Ljusnarsbergs"
+    },
+    {
+      "id": "Nora",
+      "label": "Nora"
+    },
+    {
+      "id": "Örebro",
+      "label": "Örebro"
+    }
+  ],
+  "Östergötlands län": [
+    {
+      "id": "Boxholms",
+      "label": "Boxholms"
+    },
+    {
+      "id": "Finspångs",
+      "label": "Finspångs"
+    },
+    {
+      "id": "Kinda",
+      "label": "Kinda"
+    },
+    {
+      "id": "Linköpings",
+      "label": "Linköpings"
+    },
+    {
+      "id": "Mjölby",
+      "label": "Mjölby"
+    },
+    {
+      "id": "Motala",
+      "label": "Motala"
+    },
+    {
+      "id": "Norrköpings",
+      "label": "Norrköpings"
+    },
+    {
+      "id": "Söderköpings",
+      "label": "Söderköpings"
+    },
+    {
+      "id": "Vadstena",
+      "label": "Vadstena"
+    },
+    {
+      "id": "Valdemarsviks",
+      "label": "Valdemarsviks"
+    },
+    {
+      "id": "Ydre",
+      "label": "Ydre"
+    },
+    {
+      "id": "Åtvidabergs",
+      "label": "Åtvidabergs"
+    },
+    {
+      "id": "Ödeshögs",
+      "label": "Ödeshögs"
+    }
+  ]
+}

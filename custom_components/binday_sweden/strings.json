@@ -1,0 +1,57 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "BinDay Sweden",
+        "description": "Select your county (län) and municipality (kommun) to find the right waste provider.",
+        "data": {
+          "lan": "Län"
+        }
+      },
+      "kommun": {
+        "title": "Municipality",
+        "description": "Select your municipality (kommun).",
+        "data": {
+          "kommun": "Kommun"
+        }
+      },
+      "address": {
+        "title": "Address search",
+        "description": "Search for your address/property using the provider's search.",
+        "data": {
+          "address_query": "Address search",
+          "scan_interval_hours": "Update interval (hours)"
+        }
+      },
+      "select": {
+        "title": "Select address",
+        "description": "Multiple matches were found. Select the correct address/property.",
+        "data": {
+          "match_id": "Address"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Could not connect to the provider.",
+      "cannot_load_data": "Could not load municipality data.",
+      "no_matches": "No matching addresses were found.",
+      "match_not_found": "The selected match was not found.",
+      "invalid_lan": "Invalid county selection.",
+      "invalid_kommun": "Invalid municipality selection.",
+      "unsupported_municipality": "Your municipality is not supported yet."
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "data": {
+          "scan_interval_hours": "Update interval (hours)",
+          "upcoming_limit": "Upcoming events limit",
+          "create_per_type_sensors": "Create per-type sensors",
+          "per_type_sensor_cap": "Per-type sensor cap",
+          "use_demo_data": "Use demo data (developer)"
+        }
+      }
+    }
+  }
+}
