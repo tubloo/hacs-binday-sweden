@@ -72,12 +72,12 @@ You will be asked for:
 
 ## Entities
 
-- `sensor.<name>_next_collection_date` (date)
-- `sensor.<name>_next_collection_type` (string; joins multiple types on the next date)
-- `sensor.<name>_days_until_next_collection` (int)
+- `sensor.binday_sweden_next_collection_date` (date)
+- `sensor.binday_sweden_next_collection_type` (string; joins multiple types on the next date)
+- `sensor.binday_sweden_days_until_next_collection` (int)
 
 Optional (Settings → Configure on the integration):
-- Create one sensor per derived collection type, e.g. `sensor.<name>_mat_rest_next_date`
+- Create one sensor per derived collection type (entity IDs depend on the provider’s type names), e.g. `sensor.binday_sweden_matavfall_next_date`
 
 ### Useful attributes
 
@@ -86,6 +86,10 @@ The main sensors expose attributes that are useful for automations and debugging
 - `next_day_types_display`: list of all collection types on the next pickup date
 - `next_day_events`: list of event objects (includes `container_number` when the provider supplies it, e.g. `KÄRL 1`)
 - `upcoming`: a limited list of upcoming events for automations
+
+### Note on entity IDs
+
+This integration is designed to be configured once (one household). On a fresh install, the default entity IDs are stable (`sensor.binday_sweden_...`). If you already had an older install with address-based entity IDs, rename them in Home Assistant or remove/re-add the integration to get the new defaults.
 
 ## Example automations
 

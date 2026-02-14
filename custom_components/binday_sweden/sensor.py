@@ -184,6 +184,7 @@ class BinDayNextCollectionDateSensor(_BinDayBaseSensor):
     def __init__(self, coordinator: BinDayCoordinator, entry: ConfigEntry) -> None:
         super().__init__(coordinator, entry)
         self._attr_unique_id = f"{entry.entry_id}_next_collection_date"
+        self._attr_suggested_object_id = "binday_sweden_next_collection_date"
 
     @property
     def native_value(self) -> date | None:
@@ -203,6 +204,7 @@ class BinDayNextCollectionTypeSensor(_BinDayBaseSensor):
     def __init__(self, coordinator: BinDayCoordinator, entry: ConfigEntry) -> None:
         super().__init__(coordinator, entry)
         self._attr_unique_id = f"{entry.entry_id}_next_collection_type"
+        self._attr_suggested_object_id = "binday_sweden_next_collection_type"
 
     @property
     def native_value(self) -> str | None:
@@ -243,6 +245,7 @@ class BinDayDaysUntilNextCollectionSensor(_BinDayBaseSensor):
     def __init__(self, coordinator: BinDayCoordinator, entry: ConfigEntry) -> None:
         super().__init__(coordinator, entry)
         self._attr_unique_id = f"{entry.entry_id}_days_until_next_collection"
+        self._attr_suggested_object_id = "binday_sweden_days_until_next_collection"
 
     @property
     def native_value(self) -> int | None:

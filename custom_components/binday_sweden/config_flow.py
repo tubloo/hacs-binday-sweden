@@ -236,11 +236,13 @@ class BinDaySwedenConfigFlow(config_entries.ConfigFlow, domain=DOMAIN):
         assert self._kommun is not None
         assert self._address_query is not None
 
-        await self.async_set_unique_id(f"{self._kommun}|{selected.id}")
+        # This integration is designed for a single configured household.
+        # Keeping a single config entry allows stable default entity_ids.
+        await self.async_set_unique_id(DOMAIN)
         self._abort_if_unique_id_configured()
 
         return self.async_create_entry(
-            title=f"{self._kommun} - {selected.label}",
+            title="BinDay Sweden",
             data={
                 CONF_LAN: self._lan,
                 CONF_KOMMUN: self._kommun,
